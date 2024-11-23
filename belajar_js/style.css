@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+thead, th , td { 
+    border: 8px solid black
+}
+th {
+    background-color: blueviolet; 
+    color :beige
+}
+  button {
+    border-radius: 5px;
+    background-color: aqua;
+ }
+  
