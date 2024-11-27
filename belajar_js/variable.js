@@ -14,9 +14,9 @@ console.log(umur)
 // ini adalah let
 
 //ini adalah variable let
-let jumlahMurid = 300
-let jumlahGuru = 20
-let totalSemua = jumlahGuru + jumlahMurid
+let x = 300
+let y = "keysa"
+let totalSemua = x + y
 console.log(totalSemua)
 
 
